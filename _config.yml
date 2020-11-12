@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-octicons
+title: "Yiyun Wang (Rosie)"
+description: "Personal website for Rosie."

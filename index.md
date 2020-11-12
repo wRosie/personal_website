@@ -1,4 +1,3 @@
-# Rosie Wang
 
 ## Education       
 Barnard College, B.A Computer Science - Software System Track
